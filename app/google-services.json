@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912555239020",
+    "firebase_url": "https://scappy-messanger-598d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "scappy-messanger-598d7",
+    "storage_bucket": "scappy-messanger-598d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912555239020:android:87eed60c69c9d8b1991a49",
+        "android_client_info": {
+          "package_name": "com.codeofscappy.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912555239020-s872f2on7vngfuac3q0s9sntg200s010.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeofscappy.messanger",
+            "certificate_hash": "47b913c85972a5b197fe5f073dfcd6abc5b4db53"
+          }
+        },
+        {
+          "client_id": "912555239020-65qdtsitqhchv4cqf7q1f1dn8qiak4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKMUotTIvqU0uHRjkPpzNtEgIXtzwiKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912555239020-65qdtsitqhchv4cqf7q1f1dn8qiak4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
